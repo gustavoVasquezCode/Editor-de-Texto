@@ -1,6 +1,9 @@
 /*
  -----------------------------------
  Programa creado por Gustavo Vasquez
+ Técnico en Programación CETis 145
+ Cuarto semestre
+ Dessaroola aplicaciones móviles
  -----------------------------------
  */
 package editor;
